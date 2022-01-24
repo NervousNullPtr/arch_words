@@ -1,0 +1,1 @@
+This is a very simple crate that aliases types to either unified word sizes or platform specific word sizes. Have fun!
